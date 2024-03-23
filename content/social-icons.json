@@ -2,27 +2,19 @@
   "icons": [
     {
       "name": "discord",
-      "url": "#"
+      "url": "https://discordapp.com/users/696046471727939584"
     },
     {
-      "name": "facebook",
-      "url": "#"
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/leogenus/"
     },
     {
       "name": "github",
-      "url": "#"
-    },
-    {
-      "name": "twitter",
-      "url": "#"
+      "url": "https://github.com/leogenus"
     },
     {
       "name": "gmail",
-      "url": "#"
-    },
-    {
-      "name": "skype",
-      "url": "#"
+      "url": "mailto:leogenus.io@gmail.com"
     }
   ]
 }

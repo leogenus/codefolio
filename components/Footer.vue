@@ -1,9 +1,13 @@
 <template>
   <div class="footer">
-    <a class="footer__link" href="https://github.com/0xAliRaza/codefolio"
-      >Codefolio</a
-    >, coded with <Icon name="heart" /> by
-    <a class="footer__link" href="https://0xali.com">Ali Raza.</a>
+    Profile page created using
+    <a
+      class="footer__link"
+      href="https://github.com/0xAliRaza/codefolio"
+      target="_blank"
+      >this</a
+    >
+    open source project.
   </div>
 </template>
 
