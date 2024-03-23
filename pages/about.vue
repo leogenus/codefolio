@@ -63,7 +63,7 @@ export default Vue.extend({
     }
   },
   head: {
-    title: 'About - Codefolio',
+    title: 'About | Sherzod',
   },
 })
 </script>

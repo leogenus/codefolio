@@ -20,6 +20,7 @@
                 method="POST"
                 class="contact__form py-3"
               >
+                <input type="hidden" name="redirect" :value="currentPage" />
                 <div class="mb-3">
                   <label for="fullname" class="form-label contact__label"
                     >Full name</label
@@ -119,7 +120,12 @@ export default Vue.extend({
     }
   },
   head: {
-    title: 'Contact - Codefolio',
+    title: 'Contact | Sherzod',
+  },
+  computed: {
+    currentPage() {
+      return 'testpage'
+    },
   },
 })
 </script>

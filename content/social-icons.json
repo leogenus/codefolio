@@ -1,20 +1,24 @@
 {
   "icons": [
     {
-      "name": "discord",
-      "url": "https://discordapp.com/users/696046471727939584"
-    },
-    {
-      "name": "linkedin",
-      "url": "https://www.linkedin.com/in/leogenus/"
-    },
-    {
       "name": "github",
       "url": "https://github.com/leogenus"
     },
     {
       "name": "gmail",
       "url": "mailto:leogenus.io@gmail.com"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/leogenus/"
+    },
+    {
+      "name": "discord",
+      "url": "https://discordapp.com/users/696046471727939584"
+    },
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/leogen.us/"
     }
   ]
 }
