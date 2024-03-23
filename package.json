@@ -18,11 +18,12 @@
     "@nuxt/test-utils": "^0.2.2",
     "@nuxtjs/sitemap": "^2.4.0",
     "@nuxtjs/svg-sprite": "^0.5.2",
-    "bootstrap": "^5.1.2",
+    "bootstrap": "5.2.0",
     "core-js": "^3.20.3",
     "jest-serializer-html": "^7.1.0",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.15.7",
+    "sass": "1.32.13",
     "setimmediate": "^1.0.5"
   },
   "devDependencies": {
@@ -43,7 +44,6 @@
     "install": "^0.13.0",
     "jest": "^27.0.5",
     "lint-staged": "^11.2.0",
-    "node-sass": "^6.0.1",
     "prettier": "^2.3.2",
     "sass-loader": "^10.2.0",
     "ts-jest": "^27.0.3",

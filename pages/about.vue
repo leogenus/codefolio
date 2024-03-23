@@ -27,13 +27,7 @@
                 </a>
               </div>
               <div
-                class="
-                  my-3
-                  text-nowrap
-                  d-flex
-                  align-items-center
-                  justify-content-center
-                "
+                class="my-3 text-nowrap d-flex align-items-center justify-content-center"
               >
                 <Button
                   v-if="navbar.resumeUrl"
